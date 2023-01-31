@@ -12,5 +12,5 @@ Displays a list of all the favourite movies.
 This list is persistent.
 Remove from favourites button: Each movie should has remove from favourites button, clicking on which will remove that movie from the list.
 
-###Movie Page
+### Movie Page
 Shows information about the movie like its name, photo, plot, etc.
